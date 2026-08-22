@@ -1,0 +1,11 @@
+{
+  "component": "dsh-auto-resume",
+  "source": "git",
+  "mode": "fork",
+  "baseline": "2c515d6a3d7809358ab774f9d4265dbf42013bcb",
+  "available": "578bf32e815a4e29bee268f3fe38b91deb587b7d",
+  "repository": "https://github.com/omdsh-dev/marisa-distro.git",
+  "diffDocument": "docs/plugins/dsh-auto-resume.md",
+  "checkedAt": "2026-08-22T03:59:32.833Z",
+  "action": "Rebase the fork manually, replay or delete every documented diff, then run the release-level test matrix."
+}
